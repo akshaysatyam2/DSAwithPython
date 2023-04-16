@@ -52,6 +52,7 @@ class BinarySearchTree:
         self.__delete_node(self.root, value)
 
 
+
 my_tree = BinarySearchTree()
 my_tree.r_insert(2)
 my_tree.r_insert(1)
