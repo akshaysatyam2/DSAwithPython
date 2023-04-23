@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbdbdd05-e437-44b4-9d33-58701c298d6f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/BubbleSortofLinkedList.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InsertionSortofLinkedList.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SelectionSortofLinkedList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MergeSortofList.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
