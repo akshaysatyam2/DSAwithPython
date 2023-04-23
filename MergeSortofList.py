@@ -39,5 +39,3 @@ print('Original List:', original_list)
 
 print('\nSorted List:', sorted_list)
 
-# Space Complexity = O(n)
-# Time Complexity = O(n log n)
